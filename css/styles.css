@@ -583,8 +583,7 @@ span{
     .home-img img{
         width: 250px;
         height: 250px;
-        margin: 50px;
-
+        margin-left: 75px;
     }
     
 }
