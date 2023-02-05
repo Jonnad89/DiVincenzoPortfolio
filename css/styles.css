@@ -581,9 +581,9 @@ span{
 
 @media (max-width: 540px){
     .home-img img{
-        width: 250px;
-        height: 250px;
-        margin-left: 75px;
+        width: 300px;
+        height: 300px;
+        margin-left: 50px;
     }
     
 }
